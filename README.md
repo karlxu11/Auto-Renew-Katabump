@@ -3,6 +3,7 @@
 ### 账号信息
 
 - 变量名： `ACCOUNTS`
+- 
 - 格式为： `user1:pass1,user2:pass2`
 
 ### Telegram 通知（可选）
